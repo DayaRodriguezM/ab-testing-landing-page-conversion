@@ -12,8 +12,7 @@ El análisis combina exploración de datos, pruebas estadísticas inferenciales 
 - Evaluar diferencias en el gasto promedio de los usuarios convertidos.
 - Analizar la relación entre la fuente de tráfico y la conversión.
 - Verificar si existen diferencias de comportamiento según el tipo de usuario (Nuevo vs. Recurrente).
-
-Traducir los resultados estadísticos en recomendaciones accionables para el negocio.
+- Traducir los resultados estadísticos en recomendaciones accionables para el negocio.
 ---
 
 ## 📂 Dataset
