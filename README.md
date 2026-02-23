@@ -61,9 +61,9 @@ Columnas principales:
 
 ---
 
-## 📎 **Notebook ejecutable en Google Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/DayaRodriguezM/ab-testing-landing-page-conversion/blob/main/Proyecto_Landing_Experiment.ipynb)
+## 📎 Notebook ejecutable en Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DayaRodriguezM/ab-testing-landing-page-conversion/blob/main/Proyecto_Landing_Experiment.ipynb)
 ---
 
 ## 👩‍💻 Autora
